@@ -1,0 +1,1 @@
+CREATE DATABASE friends_api_db;
